@@ -1,9 +1,8 @@
-Capital & Competition
+# Capital & Competition
 
 Markets move. Capital reallocates. Strategies adapt.
 
 This repository tracks how economic shocks, policy shifts, earnings surprises, and competitive decisions reshape industries and firm positioning.
-
 Each entry breaks down:
 
 What changed
