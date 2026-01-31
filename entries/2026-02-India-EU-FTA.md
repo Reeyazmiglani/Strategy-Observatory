@@ -1,6 +1,6 @@
-#India-EU FTA: Trade Deal or Something Bigger?
+# India-EU FTA: Trade Deal or Something Bigger?
 
-##1. Context
+## 1. Context
 
 India and the EU began FTA negotiations in 2007. By 2013, talks stalled because of disagreements around tariffs, intellectual property, mobility of professionals, and regulatory standards.
 
@@ -8,7 +8,7 @@ They restarted discussions in 2022. That timing matters. It came after COVID, su
 
 The EU accounts for roughly 10-12% of India’s total trade and is one of its largest trading partners. Bilateral trade in goods alone is above €120 billion annually. So economically, this deal is relevant. But the more interesting question is whether this is just about tariffs or about strategic positioning.
 
-##2. What Is Actually on the Table
+## 2. What Is Actually on the Table
 
 The key areas being discussed include:
 
@@ -20,7 +20,7 @@ Tariffs are not small here. India’s import duties on certain automobiles can g
 
 The friction is predictable. India wants access without hurting the domestic industry. The EU wants openness but with strict compliance and climate-linked standards. So this is not only a pricing discussion; it is a standards discussion.
 
-##3. Who Gains, Who Feels Pressure
+## 3. Who Gains, Who Feels Pressure
 
 Export-oriented sectors like pharmaceuticals, IT services, and engineering goods could benefit if barriers are reduced. The EU is already a major destination for Indian pharma exports, accounting for a meaningful share of high-value formulations.
 
@@ -30,7 +30,7 @@ On the other hand, sectors exposed to European competition, like autos or parts 
 
 So the impact will not be uniform. It will likely reward scale, compliance readiness, and capital strength.
 
-##4. Bigger Strategic Angle
+## 4. Bigger Strategic Angle
 
 This deal matters more strategically than commercially in the short term.
 
@@ -41,7 +41,7 @@ For India, it strengthens integration into European supply chains and signals re
 The question is not just "will trade increase?"  
 It is whether this shifts India’s position in global value chains and attracts more long-term foreign direct investment.
 
-##5. What This Means for Capital
+## 5. What This Means for Capital
 
 If the agreement moves forward meaningfully, we could see:
 
