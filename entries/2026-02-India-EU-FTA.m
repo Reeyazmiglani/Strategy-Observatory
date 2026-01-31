@@ -1,4 +1,4 @@
-# India–EU FTA: Trade Deal or Something Bigger?
+#India–EU FTA: Trade Deal or Something Bigger?
 
 ## 1. Context
 
